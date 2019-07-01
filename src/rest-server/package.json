@@ -51,7 +51,7 @@
     "mustache": "~2.3.0",
     "nock": "~9.1.6",
     "node-cache": "~4.2.0",
-    "node-etcd": "~5.1.0",
+    "node-etcd": "~7.0.0",
     "nyc": "~11.6.0",
     "ssh-keygen": "~0.4.2",
     "statuses": "~1.5.0",
