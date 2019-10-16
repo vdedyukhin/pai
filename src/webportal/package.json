@@ -44,7 +44,7 @@
     "datatables.net-plugins": "~1.10.15",
     "datatables.net-responsive-bs": "^2.2.3",
     "datatables.net-select-bs": "^1.2.7",
-    "dotenv": "~4.0.0",
+    "dotenv": "~8.2.0",
     "ejs-loader": "~0.3.0",
     "envsub": "3.0.9",
     "eslint": "~4.18.2",
