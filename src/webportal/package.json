@@ -80,7 +80,7 @@
     "postcss-loader": "^3.0.0",
     "prop-types": "^15.7.2",
     "randomcolor": "^0.5.4",
-    "raw-loader": "~0.5.1",
+    "raw-loader": "~4.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-monaco-editor": "^0.25.1",
