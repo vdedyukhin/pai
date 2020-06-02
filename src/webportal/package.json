@@ -52,7 +52,7 @@
     "eslint-plugin-react": "^7.12.4",
     "express": "~4.16.2",
     "file-loader": "~1.1.5",
-    "floatthead": "~2.0.3",
+    "floatthead": "~2.2.1",
     "font-awesome": "~4.7.0",
     "fs-extra": "~5.0.0",
     "handlebars": "~4.0.14",
